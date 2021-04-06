@@ -1,0 +1,32 @@
+﻿@{
+  Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta name="viewport" content="width=device-width" />
+  <title>LINQOperations</title>
+</head>
+<body>
+    <h1>Orders where a product 3 is sold</h1>
+    @{
+        var data1 = ViewBag.products;
+        foreach (var p in data1)
+        {
+            <h2>@p</h2>
+        }
+    }
+
+    <h1>Orders having Max 4 products</h1>
+    @{
+        var data2 = ViewBag.OrderId;
+        foreach (var i in data2)
+        {
+            <h2>@i</h2>
+        }
+    }
+
+</body>
+</html>

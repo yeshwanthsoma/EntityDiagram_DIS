@@ -1,0 +1,16 @@
+C:\Users\soma yeshwanth\Downloads\MVC_EF_Start\MVC_EF_Start\MVC_EF_Start\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\soma yeshwanth\Downloads\MVC_EF_Start\MVC_EF_Start\MVC_EF_Start\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\soma yeshwanth\Downloads\MVC_EF_Start\MVC_EF_Start\MVC_EF_Start\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\soma yeshwanth\Downloads\MVC_EF_Start\MVC_EF_Start\MVC_EF_Start\bin\Debug\netcoreapp2.0\EntityDiagram_DIS.deps.json
+C:\Users\soma yeshwanth\Downloads\MVC_EF_Start\MVC_EF_Start\MVC_EF_Start\bin\Debug\netcoreapp2.0\EntityDiagram_DIS.runtimeconfig.json
+C:\Users\soma yeshwanth\Downloads\MVC_EF_Start\MVC_EF_Start\MVC_EF_Start\bin\Debug\netcoreapp2.0\EntityDiagram_DIS.runtimeconfig.dev.json
+C:\Users\soma yeshwanth\Downloads\MVC_EF_Start\MVC_EF_Start\MVC_EF_Start\bin\Debug\netcoreapp2.0\EntityDiagram_DIS.dll
+C:\Users\soma yeshwanth\Downloads\MVC_EF_Start\MVC_EF_Start\MVC_EF_Start\bin\Debug\netcoreapp2.0\EntityDiagram_DIS.pdb
+C:\Users\soma yeshwanth\Downloads\MVC_EF_Start\MVC_EF_Start\MVC_EF_Start\obj\Debug\netcoreapp2.0\EntityDiagram_DIS.csprojAssemblyReference.cache
+C:\Users\soma yeshwanth\Downloads\MVC_EF_Start\MVC_EF_Start\MVC_EF_Start\obj\Debug\netcoreapp2.0\EntityDiagram_DIS.AssemblyInfoInputs.cache
+C:\Users\soma yeshwanth\Downloads\MVC_EF_Start\MVC_EF_Start\MVC_EF_Start\obj\Debug\netcoreapp2.0\EntityDiagram_DIS.AssemblyInfo.cs
+C:\Users\soma yeshwanth\Downloads\MVC_EF_Start\MVC_EF_Start\MVC_EF_Start\obj\Debug\netcoreapp2.0\EntityDiagram_DIS.csproj.CoreCompileInputs.cache
+C:\Users\soma yeshwanth\Downloads\MVC_EF_Start\MVC_EF_Start\MVC_EF_Start\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\soma yeshwanth\Downloads\MVC_EF_Start\MVC_EF_Start\MVC_EF_Start\obj\Debug\netcoreapp2.0\EntityDiagram_DIS.dll
+C:\Users\soma yeshwanth\Downloads\MVC_EF_Start\MVC_EF_Start\MVC_EF_Start\obj\Debug\netcoreapp2.0\EntityDiagram_DIS.pdb
+C:\Users\soma yeshwanth\Downloads\MVC_EF_Start\MVC_EF_Start\MVC_EF_Start\obj\Debug\netcoreapp2.0\EntityDiagram_DIS.genruntimeconfig.cache
